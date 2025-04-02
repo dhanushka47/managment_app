@@ -1,0 +1,17 @@
+module.exports = [
+  'CEO',
+  'HOO',
+  'intern',
+  'staff',
+  'operator',
+  'HR_manager',
+  'HR_operator',
+  'project_manager',
+  'supervisor',
+  'visitor',
+  'QA_head',
+  'QA_intern',
+  'QA_operator',
+  'IT_administrator',
+  'IT_operator',
+];
